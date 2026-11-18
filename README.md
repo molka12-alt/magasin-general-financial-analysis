@@ -25,11 +25,12 @@ Using publicly available financial information from the Bourse des Valeurs Mobil
 - Data Visualization
 
 ## Project Deliverables
-- Interactive Power BI dashboard.
-- Comparative financial analysis.
-- Financial performance indicators and visual insights.
-- Canva presentation summarizing the methodology and findings.
-
+- One interactive Power BI report consisting of five pages.
+- Comparative financial analysis for FY2024 and FY2025.
+- Financial KPI analysis, including ROE, ROC and DuPont decomposition.
+- Balance sheet, income statement, and leverage analysis.
+- Canva presentation explaining the methodology, findings and recommendations.
+  
 ## Data Source
 All financial data was collected from publicly available publications of the Bourse des Valeurs Mobilières de Tunis (BVMT).
 
