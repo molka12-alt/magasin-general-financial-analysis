@@ -1,37 +1,42 @@
 # Magasin Général – Financial Performance Analysis
 
 ## Project Overview
-This individual project focuses on analyzing the financial performance of Magasin Général through a comparative analysis of its 2024 and 2025 financial data.
+This individual project analyzes the financial performance of Magasin Général through a comparative study of its 2024 and 2025 financial data.
 
-The objective is to transform financial statements into meaningful insights and provide a clear overview of the company's financial position and performance.
+Using publicly available financial information from the Bourse des Valeurs Mobilières de Tunis (BVMT), the project transforms financial statements into meaningful insights through financial analysis and interactive data visualization.
 
 ## Objectives
-- Analyze financial performance across 2024 and 2025.
-- Evaluate key financial indicators.
-- Examine profitability and financial structure.
-- Identify trends and changes in financial performance.
-- Develop an interactive dashboard to support financial analysis and decision-making.
+- Compare financial performance across 2024 and 2025.
+- Evaluate key profitability indicators.
+- Analyze balance-sheet and Profit & Loss (P&L) indicators.
+- Identify financial trends and changes.
+- Support financial interpretation through interactive visualizations.
 
-## Key Performance Indicators
+## Key Financial Indicators
 - Return on Equity (ROE)
 - Return on Capital (ROC)
 - Balance Sheet Indicators
-- Profit and Loss (P&L) Indicators
+- Profit & Loss (P&L) Indicators
 
 ## Tools & Technologies
 - Power BI
-- Data Analysis
 - Financial Analysis
+- Data Analysis
 - Data Visualization
 
 ## Project Deliverables
 - Interactive Power BI dashboard.
 - Comparative financial analysis.
 - Financial performance indicators and visual insights.
-- Canva presentation summarizing the analysis and key findings.
+- Canva presentation summarizing the methodology and findings.
+
+## Data Source
+All financial data was collected from publicly available publications of the Bourse des Valeurs Mobilières de Tunis (BVMT).
+
+**Analysis period:** 2024–2025.
 
 ## Project Type
-Individual Academic / Internship Project
+Individual Project
 
 ## Note
-This repository presents the analytical approach and project deliverables. Confidential company information and restricted financial data are not included.
+This project is an independent financial analysis based on publicly available market information. It is not an official financial assessment conducted on behalf of Magasin Général.
